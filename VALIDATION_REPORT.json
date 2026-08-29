@@ -1,0 +1,21 @@
+{
+  "source_document": "Fihirana 2024.pdf",
+  "total_hymns_detected": 295,
+  "expected_range": "1-295",
+  "missing_numbers": [],
+  "duplicated_numbers": [],
+  "empty_lyrics": [],
+  "extraction_warnings": [
+    "Hymn 8: possible FIDERANA header remains",
+    "Hymn 30: possible FIDERANA header remains",
+    "Hymn 94: possible FIDERANA header remains",
+    "Hymn 121: possible FIDERANA header remains",
+    "Hymn 145: possible FIDERANA header remains",
+    "Hymn 155: possible FIDERANA header remains",
+    "Hymn 257: possible FIDERANA header remains",
+    "Hymn 262: possible FIDERANA header remains",
+    "Hymn 286: possible FIDERANA header remains"
+  ],
+  "page_header_removed": "FIDERANA and standalone PDF page numbers were removed when clearly identified as headers/page markers.",
+  "ligature_normalization": "PDF typographic ligatures ﬁ/ﬂ were normalized to fi/fl for searchable Unicode text."
+}
